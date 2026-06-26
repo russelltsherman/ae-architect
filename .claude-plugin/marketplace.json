@@ -1,0 +1,31 @@
+{
+  "name": "ae-architect",
+  "owner": {
+    "name": "Russell Sherman",
+    "url": "https://github.com/russelltsherman"
+  },
+  "metadata": {
+    "description": "Marketplace of Claude Code plugins for software design, architecture, and planning.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ae-architect",
+      "source": "./src/ae-architect",
+      "description": "Master-level software design & planning toolkit: turn an idea into a PRD, architecture doc, and ADRs, each adversarially reviewed before it is considered done.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Russell Sherman",
+        "url": "https://github.com/russelltsherman"
+      },
+      "keywords": [
+        "architecture",
+        "design",
+        "planning",
+        "prd",
+        "adr",
+        "system-design"
+      ]
+    }
+  ]
+}
